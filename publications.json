@@ -1,0 +1,45 @@
+{
+  "publications": [
+    {
+      "title": "On quiver varieties associated to the category of some G-equivariant perverse sheaves on M_n(C), with coefficients in a field of any characteristic",
+      "authors": [
+        "Abhishek Dangodara"
+      ],
+      "venue": "Draft in preparation (2025)",
+      "thumbnail": "images/thumbs/3.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "papers/mnc-quiver-draft.pdf"
+      }
+    },
+    {
+      "title": "On quiver varieties associated to the category of some G-equivariant perverse sheaves on the moduli stack of two-term perfect chain complexes, with coefficients in a field of any characteristic",
+      "authors": [
+        "Abhishek Dangodara"
+      ],
+      "venue": "Draft in preparation (2025)",
+      "thumbnail": "images/thumbs/4.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "papers/perfect-chain-complexes-draft.pdf"
+      }
+    },
+    {
+      "title": "On a twisted Jacquet module of GL_{2n}(C) over a finite field",
+      "authors": [
+        "Kumar Balasubramanian",
+        "Abhishek Dangodara",
+        "Himanshi Khurana"
+      ],
+      "venue": "Journal of Number Theory, vol. 271, 2025, pp. 458\u2013474",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#"
+      }
+    }
+  ]
+}
