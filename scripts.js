@@ -151,6 +151,15 @@ function createPublicationElement(publication) {
       links.appendChild(pdfLink);
     }
     
+    if (publication.links.paper) {
+      const paperLink = document.createElement('a');
+      paperLink.href = publication.links.paper;
+      paperLink.target = '_blank';
+      paperLink.rel = 'noopener';
+      paperLink.textContent = '[Paper]';
+      links.appendChild(paperLink);
+    }
+
     if (publication.links.code) {
       const codeLink = document.createElement('a');
       codeLink.href = publication.links.code;
