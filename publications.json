@@ -1,7 +1,7 @@
 {
   "publications": [
     {
-      "title": "On quiver varieties associated to the category of some G-equivariant perverse sheaves on M_n(C), with coefficients in a field of any characteristic",
+      "title": "The quiver associated to the category of G_n-equivariant perverse sheaves on M_n(C)",
       "authors": [
         "Abhishek Dangodara"
       ],
@@ -14,7 +14,7 @@
       }
     },
     {
-      "title": "On quiver varieties associated to the category of some G-equivariant perverse sheaves on the moduli stack of two-term perfect chain complexes, with coefficients in a field of any characteristic",
+      "title": "The quiver associated to the stack of certain perfect chain complexes",
       "authors": [
         "Abhishek Dangodara"
       ],
@@ -33,7 +33,7 @@
         "Abhishek Dangodara",
         "Himanshi Khurana"
       ],
-      "venue": "Journal of Number Theory, vol. 271, 2025, pp. 458\u2013474",
+      "venue": "Journal of Number Theory, vol. 271, 2025, pp. 458–474",
       "thumbnail": "images/thumbs/1.jpg",
       "selected": 1,
       "award": "",
